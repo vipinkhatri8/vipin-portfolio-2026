@@ -99,13 +99,13 @@ function Contact() {
     },
     {
       label: "LinkedIn",
-      value: "linkedin.com/in/vipinkhatri",
+      value: "linkedin.com/in/vipinkhatri8",
       link: "https://linkedin.com/in/vipinkhatri8",
     },
     {
       label: "GitHub",
       value: "github.com/vipinkhatri",
-      link: "https://github.com/vipinkhatri",
+      link: "https://github.com/vipinkhatri8",
     },
   ];
 
