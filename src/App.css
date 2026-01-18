@@ -426,9 +426,9 @@
     grid-template-columns: 1fr;
   }
 
-  .project-video {
+  /* .project-video {
     height: 200px;
-  }
+  } */
 }
 /* REVERSE FOR 2ND PROJECT */
 .project-row.reverse {
